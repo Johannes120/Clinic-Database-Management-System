@@ -1,0 +1,9 @@
+<TableView fx:id="table" prefWidth="600">
+    <columns>
+        <TableColumn fx:id="colId" text="ID"/>
+        <TableColumn fx:id="colPatient" text="Patient"/>
+        <TableColumn fx:id="colDoctor" text="Doctor"/>
+        <TableColumn fx:id="colDate" text="Date"/>
+        <TableColumn fx:id="colStatus" text="Status"/>
+    </columns>
+</TableView>
